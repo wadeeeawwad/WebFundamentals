@@ -1,0 +1,23 @@
+
+.cont{
+
+    background-color: white;
+    width: 300px;
+
+}
+
+
+.first{
+width: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+ 
+}
+img{
+width: 100px;
+height: 100px;
+
+margin: 20px;
+
+}

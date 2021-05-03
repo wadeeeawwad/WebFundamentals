@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        <script>
+        $(document).ready(function() {
+            var x= $('img').attr('src');
+            $('img').hover(function()  {
+               
+                var temp= $(this).attr('data');
+              
+              console.log(temp);
+                $(this).attr('src',temp);
+            },function () {
+           
+
+                $(this).attr('src',x);
+
+
+
+            
+        })
+        
+        
+        </script>
+<link rel="stylesheet" href="1.css"></head>
+<body>
+    <img src="OIP.jpg" alt=""   >
+    <img src="ninja2.png" alt="">
+</body>
+</html>

@@ -1,0 +1,180 @@
+.layer1{
+    background-image:radial-gradient(#6f5964,#200f14);
+    width: 970px;
+    height: 940px;
+}
+
+#header{
+    width:970px;
+    height:50px;
+    background-color: rgb(235, 230, 230);
+    display: flex;
+    justify-content: space-between;
+    
+}
+#p{
+   margin: 18px;
+   padding-right: 9px;
+     
+   font-size: large;
+   font-weight: bold;
+}
+#p1{
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size: 30px;
+    padding: 5px;
+    margin-left:15px ;
+  
+}
+
+.mid{
+display: flex;
+justify-content:space-evenly;
+
+}
+
+
+#pic{
+    margin: 10px;
+    padding: 0px;
+width: 350px;
+height:200px;
+ 
+
+}
+
+#about{
+    background-image: radial-gradient(#fefdfe,#dbcdda);
+    margin: 10px;
+    padding: 0px;
+width: 450px;
+height:200px;
+}
+#aboutheader{
+ margin: 0px;
+    background-image:linear-gradient(#878593,#bdbdc2);
+    height: 30px;
+    font-size: 20px; 
+}
+.tc{
+    margin: 0px;
+    background-image:linear-gradient(#878593,#bdbdc2);
+    height: 26px;
+    font-size: 17px; 
+    color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+
+}
+
+#ab{
+   font-family:Georgia, serif;
+   
+margin-top: 0px;
+color: white;
+font-style:normal;
+padding: 5px;
+font-size: 18px;
+}
+
+#laheader{
+    padding: 0px;
+       background-image:linear-gradient(#878593,#acacb1);
+       height: 30px;
+       font-size: 20px; 
+   }
+#faheader{
+   
+        padding: 0px;
+           background-image:linear-gradient(#878593,#acacb1);
+           height: 30px;
+           font-size: 20px;    
+}
+#fiveheader{
+    padding: 0px;
+       background-image:linear-gradient(#878593,#acacb1);
+       height: 30px;
+       font-size: 20px; 
+   }
+
+#la{
+    margin: 0%;
+    color: white;
+    font-style:normal;
+    padding: 5px;
+    font-size: 18px;
+    font-family:Georgia, serif;
+    }
+
+.write{
+    
+    margin: 9px;
+    max-width: 450px;
+    
+}
+a{
+    
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+
+}
+
+.midone{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.mid2{
+    background-image: radial-gradient(#fefdfe,#dbcdda);
+    margin: 10px;
+    padding: 0px;
+width: 150px;
+height:600px;
+flex: 1;
+}
+
+#images{
+   
+   
+}
+.img11{
+   
+   padding-left: 5px;
+   padding-top: 10px;
+  
+   
+}
+.img22{
+    padding-left: 5px;
+    padding-top: 0px;
+   
+}
+.uu{
+margin: 8px;
+}
+#LaMode{
+    background-color: green;
+    border-radius: 8px;
+    color: #f9f0da;
+    margin-left: 120px;
+    padding-left: 3px
+}
+
+
+
+#footer{
+   
+        width:970px;
+        height:70px;
+        background-color: rgb(235, 230, 230);
+       padding-bottom: 0px; 
+}
+#fot{
+
+padding-left: 405px;
+}
+#social{
+    padding-left: 300px;
+    padding-bottom: 20px;
+}

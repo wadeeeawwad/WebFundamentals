@@ -1,0 +1,10 @@
+.cont{
+
+
+}
+img{
+    display: flex;
+flex-direction: column; 
+justify-content:space-around;
+margin: 20px;
+}
